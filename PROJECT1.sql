@@ -30,12 +30,3 @@ select * from cricket_teams;
 
 desc cricket_teams;
 desc airport_details;
-
-
-
-
-
-
-
-
-
